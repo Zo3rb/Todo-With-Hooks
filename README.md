@@ -3,7 +3,7 @@
 ## Check The Upper Link for The Live Version or Download The REPO then 
 
 ```
-npm instal
+npm install
 ```
 
 ```
